@@ -1,11 +1,11 @@
 .Homepage {
- width: 50%;
-    color: white;
-    text-align: center;
-    padding: 3%;
+  width: 50%;
+  color: white;
+  text-align: center;
+  padding: 3%;
 }
-button  {
-    height: 50px;
-    width: 150px;
-    cursor: pointer;
+button {
+  height: 50px;
+  width: 150px;
+  cursor: pointer;
 }
