@@ -2,7 +2,7 @@ import { Routes, Route, Link } from "react-router-dom";
 
 import { Homepage } from "./pages/HomePage/Homepage";
 import { Features } from "./pages/Features/Features";
-import { Blogpage } from "./pages/Blogpage";
+
 import { Contact } from "./pages/Contact";
 import "./App.css";
 function App() {
